@@ -52,7 +52,6 @@ export * from './compat.d.js';
 export * from './constants.js';
 export * from './environment.js';
 export * from './generated/injected.js';
-export * from './generated/version.js';
 export * from './initializePuppeteer.js';
 export * from './node/BrowserFetcher.js';
 export * from './node/BrowserRunner.js';
